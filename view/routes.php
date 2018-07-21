@@ -27,8 +27,8 @@ switch ($page){
 		$controller->index();
 	break;
 	
-	case '_____':
-		$controller->____();
+	case 'Registrujte se':
+		$controller->insertUser();
 	break;
 	
 
